@@ -36,9 +36,10 @@ archivo. Todo el contenido se escribe en **español rioplatense, con voseo**.
 
 Lo que la gente no sabe y de donde salen los mejores reels:
 
-1. No entiende por qué un buen PPF vale USD 3.000 y no 1.000 o 1.500 como en
-   otros lugares. La diferencia está en la marca y la calidad del material, la
-   experiencia del instalador y, sobre todo, la garantía escrita del material.
+1. No entiende por qué un buen PPF vale lo que vale (alrededor de USD 3.000 un
+   completo). Se explica por la marca y la calidad del material, la
+   experiencia del instalador y, sobre todo, la garantía escrita. Contarlo
+   desde lo nuestro, sin comparar con otros talleres.
 2. No sabe bien de qué protege el PPF.
 3. Mucha gente ni siquiera sabe que el PPF existe.
 4. Confunde el PPF con el tratamiento cerámico.
@@ -47,8 +48,10 @@ Lo que la gente no sabe y de donde salen los mejores reels:
 
 - **No mostrar:** patentes ni caras de clientes.
 - **No nombrar a la competencia.** Hablamos solo de nosotros y de lo que
-  hacemos. Comparar contra "un PPF barato" en general está bien; contra una
-  empresa con nombre, no.
+  hacemos.
+- **No hablar de precios de otros talleres** ni comparar con lo más barato.
+  El contenido explica qué hay detrás de lo nuestro (material, garantía,
+  instalación), no por qué los demás cobran menos.
 - **Casos de clientes:** no contar casos puntuales que no estén en la lista de
   abajo.
 
